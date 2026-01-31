@@ -1,0 +1,2 @@
+GitHub collaboration allows multiple developers to work on the same project simultaneously through Git version control, ensuring organized and conflict-free code management.
+Teams use branches to develop features independently and then submit Pull Requests for code review and discussion before merging changes into the main project.
