@@ -1,0 +1,2 @@
+github is a platform where people store track and collaborate on code .
+github tracks everything store who changed what , stores when it was changed keeps old version and if something breakes ; you can roll back to a previous working version in seconds
