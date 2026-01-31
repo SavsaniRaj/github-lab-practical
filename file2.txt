@@ -1,0 +1,2 @@
+in github we can create seperate branches to work seperately and after we can connect all branch together .
+this is file2 from branch 2 and we also have file1 from branch1 and file3 from branch3. 
